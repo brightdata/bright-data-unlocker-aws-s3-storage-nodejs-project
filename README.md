@@ -2,6 +2,8 @@
 
 This project demonstrates how to use Bright Data's Web Unlocker API to scrape web content and store the results in an AWS S3 bucket using Node.js.
 
+https://github.com/user-attachments/assets/95b2dbe1-3612-471a-b8b1-95c578f0b8f8
+
 ## Features
 - Fetch web content through Bright Data's Unlocker API
 - Store the scraped data in AWS S3 as JSON
