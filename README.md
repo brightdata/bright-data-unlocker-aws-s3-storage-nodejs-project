@@ -1,6 +1,9 @@
 # Bright Data Unlocker + AWS S3 Node.js Example
 
-This project demonstrates how to use Bright Data's Web Unlocker API to scrape web content and store the results in an AWS S3 bucket using Node.js.
+[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/)
+
+
+This project demonstrates how to use [Bright Data's Unlocker API](https://brightdata.com/products/web-unlocker) to scrape web content and store the results in an AWS S3 bucket using Node.js.
 
 https://github.com/user-attachments/assets/95b2dbe1-3612-471a-b8b1-95c578f0b8f8
 
